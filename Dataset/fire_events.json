@@ -1,0 +1,722 @@
+[
+    {
+        "video_name": "fire_1.mp4",
+        "timestamp": "00:00:15",
+        "location": "Whitefield, Bangalore, Karnataka, 560066",
+        "latitude": 12.9698,
+        "longitude": 77.7499,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_2.mp4",
+        "timestamp": "00:00:15",
+        "location": "KR Puram, Bangalore, Karnataka, 560036",
+        "latitude": 13.0004,
+        "longitude": 77.6956,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_3.mp4",
+        "timestamp": "00:00:15",
+        "location": "Hebbal, Bangalore, Karnataka, 560024",
+        "latitude": 13.0358,
+        "longitude": 77.597,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_4.mp4",
+        "timestamp": "00:00:15",
+        "location": "Malleshwaram, Bangalore, Karnataka, 560003",
+        "latitude": 13.0067,
+        "longitude": 77.5696,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_5.mp4",
+        "timestamp": "00:00:15",
+        "location": "Basavanagudi, Bangalore, Karnataka, 560004",
+        "latitude": 12.9416,
+        "longitude": 77.5738,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_6.mp4",
+        "timestamp": "00:00:15",
+        "location": "Banashankari, Bangalore, Karnataka, 560050",
+        "latitude": 12.9255,
+        "longitude": 77.5468,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_7.mp4",
+        "timestamp": "00:00:15",
+        "location": "JP Nagar, Bangalore, Karnataka, 560078",
+        "latitude": 12.9077,
+        "longitude": 77.5857,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_8.mp4",
+        "timestamp": "00:00:15",
+        "location": "Jakkur, Bangalore, Karnataka, 560064",
+        "latitude": 13.0785,
+        "longitude": 77.6066,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_9.mp4",
+        "timestamp": "00:00:15",
+        "location": "Hennur, Bangalore, Karnataka, 560043",
+        "latitude": 13.0583,
+        "longitude": 77.6409,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_10.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kalyan Nagar, Bangalore, Karnataka, 560043",
+        "latitude": 13.0221,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_11.mp4",
+        "timestamp": "00:00:15",
+        "location": "HRBR Layout, Bangalore, Karnataka, 560043",
+        "latitude": 13.0196,
+        "longitude": 77.6503,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_12.mp4",
+        "timestamp": "00:00:15",
+        "location": "Nagawara, Bangalore, Karnataka, 560045",
+        "latitude": 13.0475,
+        "longitude": 77.6203,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_13.mp4",
+        "timestamp": "00:00:15",
+        "location": "Bellandur, Bangalore, Karnataka, 560103",
+        "latitude": 12.9304,
+        "longitude": 77.6784,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_14.mp4",
+        "timestamp": "00:00:15",
+        "location": "Sarjapur, Bangalore, Karnataka, 562125",
+        "latitude": 12.9137,
+        "longitude": 77.6835,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_15.mp4",
+        "timestamp": "00:00:15",
+        "location": "Domlur, Bangalore, Karnataka, 560071",
+        "latitude": 12.9611,
+        "longitude": 77.6387,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_16.mp4",
+        "timestamp": "00:00:15",
+        "location": "Ulsoor, Bangalore, Karnataka, 560008",
+        "latitude": 12.9849,
+        "longitude": 77.6183,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_17.mp4",
+        "timestamp": "00:00:15",
+        "location": "MG Road, Bangalore, Karnataka, 560001",
+        "latitude": 12.9755,
+        "longitude": 77.6067,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_18.mp4",
+        "timestamp": "00:00:15",
+        "location": "Shivajinagar, Bangalore, Karnataka, 560051",
+        "latitude": 12.9896,
+        "longitude": 77.6038,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_19.mp4",
+        "timestamp": "00:00:15",
+        "location": "RT Nagar, Bangalore, Karnataka, 560032",
+        "latitude": 13.0243,
+        "longitude": 77.5939,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_20.mp4",
+        "timestamp": "00:00:15",
+        "location": "Sadashivanagar, Bangalore, Karnataka, 560080",
+        "latitude": 13.0078,
+        "longitude": 77.5811,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_21.mp4",
+        "timestamp": "00:00:15",
+        "location": "Vijayanagar, Bangalore, Karnataka, 560040",
+        "latitude": 12.9719,
+        "longitude": 77.537,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_22.mp4",
+        "timestamp": "00:00:15",
+        "location": "RR Nagar, Bangalore, Karnataka, 560098",
+        "latitude": 12.9147,
+        "longitude": 77.5201,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_23.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kengeri, Bangalore, Karnataka, 560060",
+        "latitude": 12.9073,
+        "longitude": 77.4856,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_24.mp4",
+        "timestamp": "00:00:15",
+        "location": "Nagarbhavi, Bangalore, Karnataka, 560072",
+        "latitude": 12.9624,
+        "longitude": 77.5063,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_25.mp4",
+        "timestamp": "00:00:15",
+        "location": "Chandra Layout, Bangalore, Karnataka, 560040",
+        "latitude": 12.9608,
+        "longitude": 77.5242,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_26.mp4",
+        "timestamp": "00:00:15",
+        "location": "Yeshwanthpur, Bangalore, Karnataka, 560022",
+        "latitude": 13.0285,
+        "longitude": 77.54,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_27.mp4",
+        "timestamp": "00:00:15",
+        "location": "Peenya, Bangalore, Karnataka, 560058",
+        "latitude": 13.0287,
+        "longitude": 77.5197,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_28.mp4",
+        "timestamp": "00:00:15",
+        "location": "Nelamangala, Bangalore, Karnataka, 562123",
+        "latitude": 13.0985,
+        "longitude": 77.3936,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_29.mp4",
+        "timestamp": "00:00:15",
+        "location": "Tumkur Road, Bangalore, Karnataka, 560073",
+        "latitude": 13.0418,
+        "longitude": 77.5119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_30.mp4",
+        "timestamp": "00:00:15",
+        "location": "Vidyaranyapura, Bangalore, Karnataka, 560097",
+        "latitude": 13.0762,
+        "longitude": 77.5618,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_31.mp4",
+        "timestamp": "00:00:15",
+        "location": "Sahakar Nagar, Bangalore, Karnataka, 560092",
+        "latitude": 13.0624,
+        "longitude": 77.5925,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_32.mp4",
+        "timestamp": "00:00:15",
+        "location": "Sanjay Nagar, Bangalore, Karnataka, 560094",
+        "latitude": 13.0248,
+        "longitude": 77.5781,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_33.mp4",
+        "timestamp": "00:00:15",
+        "location": "Mathikere, Bangalore, Karnataka, 560054",
+        "latitude": 13.0329,
+        "longitude": 77.5574,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_34.mp4",
+        "timestamp": "00:00:15",
+        "location": "Cox Town, Bangalore, Karnataka, 560005",
+        "latitude": 12.9985,
+        "longitude": 77.6176,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_35.mp4",
+        "timestamp": "00:00:15",
+        "location": "Frazer Town, Bangalore, Karnataka, 560005",
+        "latitude": 12.998,
+        "longitude": 77.6145,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_36.mp4",
+        "timestamp": "00:00:15",
+        "location": "Benson Town, Bangalore, Karnataka, 560046",
+        "latitude": 13.0044,
+        "longitude": 77.6119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_37.mp4",
+        "timestamp": "00:00:15",
+        "location": "Richmond Town, Bangalore, Karnataka, 560025",
+        "latitude": 12.9645,
+        "longitude": 77.6031,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_38.mp4",
+        "timestamp": "00:00:15",
+        "location": "Wilson Garden, Bangalore, Karnataka, 560027",
+        "latitude": 12.9492,
+        "longitude": 77.5968,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_39.mp4",
+        "timestamp": "00:00:15",
+        "location": "Lalbagh, Bangalore, Karnataka, 560004",
+        "latitude": 12.9507,
+        "longitude": 77.5848,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_40.mp4",
+        "timestamp": "00:00:15",
+        "location": "Jayanagar, Bangalore, Karnataka, 560041",
+        "latitude": 12.925,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_41.mp4",
+        "timestamp": "00:00:15",
+        "location": "BTM Layout, Bangalore, Karnataka, 560076",
+        "latitude": 12.9166,
+        "longitude": 77.6101,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_42.mp4",
+        "timestamp": "00:00:15",
+        "location": "Koramangala, Bangalore, Karnataka, 560034",
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_43.mp4",
+        "timestamp": "00:00:15",
+        "location": "HSR Layout, Bangalore, Karnataka, 560102",
+        "latitude": 12.9116,
+        "longitude": 77.6474,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_44.mp4",
+        "timestamp": "00:00:15",
+        "location": "Electronic City, Bangalore, Karnataka, 560100",
+        "latitude": 12.8456,
+        "longitude": 77.6603,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_45.mp4",
+        "timestamp": "00:00:15",
+        "location": "Marathahalli, Bangalore, Karnataka, 560037",
+        "latitude": 12.9569,
+        "longitude": 77.7011,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_46.mp4",
+        "timestamp": "00:00:15",
+        "location": "Indiranagar, Bangalore, Karnataka, 560038",
+        "latitude": 12.9784,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_47.mp4",
+        "timestamp": "00:00:15",
+        "location": "Rajajinagar, Bangalore, Karnataka, 560010",
+        "latitude": 12.9916,
+        "longitude": 77.5538,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_48.mp4",
+        "timestamp": "00:00:15",
+        "location": "Yelahanka, Bangalore, Karnataka, 560064",
+        "latitude": 13.1005,
+        "longitude": 77.5963,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_49.mp4",
+        "timestamp": "00:00:15",
+        "location": "Devanahalli, Bangalore, Karnataka, 562110",
+        "latitude": 13.2422,
+        "longitude": 77.7132,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_50.mp4",
+        "timestamp": "00:00:15",
+        "location": "Airport Road, Bangalore, Karnataka, 560017",
+        "latitude": 12.958,
+        "longitude": 77.6488,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_51.mp4",
+        "timestamp": "00:00:15",
+        "location": "Varthur, Bangalore, Karnataka, 560087",
+        "latitude": 12.9406,
+        "longitude": 77.7476,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_52.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kundalahalli, Bangalore, Karnataka, 560037",
+        "latitude": 12.9567,
+        "longitude": 77.7137,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_53.mp4",
+        "timestamp": "00:00:15",
+        "location": "Brookefield, Bangalore, Karnataka, 560037",
+        "latitude": 12.9661,
+        "longitude": 77.7172,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_54.mp4",
+        "timestamp": "00:00:15",
+        "location": "Mahadevapura, Bangalore, Karnataka, 560048",
+        "latitude": 12.9913,
+        "longitude": 77.6955,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_55.mp4",
+        "timestamp": "00:00:15",
+        "location": "Hoodi, Bangalore, Karnataka, 560048",
+        "latitude": 12.9892,
+        "longitude": 77.7159,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_56.mp4",
+        "timestamp": "00:00:15",
+        "location": "ITPL, Bangalore, Karnataka, 560066",
+        "latitude": 12.9855,
+        "longitude": 77.736,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_57.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kadugodi, Bangalore, Karnataka, 560067",
+        "latitude": 12.9953,
+        "longitude": 77.76,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_58.mp4",
+        "timestamp": "00:00:15",
+        "location": "Begur, Bangalore, Karnataka, 560068",
+        "latitude": 12.8891,
+        "longitude": 77.6324,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_59.mp4",
+        "timestamp": "00:00:15",
+        "location": "Bommanahalli, Bangalore, Karnataka, 560068",
+        "latitude": 12.9063,
+        "longitude": 77.6247,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_60.mp4",
+        "timestamp": "00:00:15",
+        "location": "Arekere, Bangalore, Karnataka, 560076",
+        "latitude": 12.8876,
+        "longitude": 77.5961,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_61.mp4",
+        "timestamp": "00:00:15",
+        "location": "Bannerghatta, Bangalore, Karnataka, 560083",
+        "latitude": 12.8003,
+        "longitude": 77.5778,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_62.mp4",
+        "timestamp": "00:00:15",
+        "location": "Gottigere, Bangalore, Karnataka, 560083",
+        "latitude": 12.8678,
+        "longitude": 77.588,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_63.mp4",
+        "timestamp": "00:00:15",
+        "location": "Hulimavu, Bangalore, Karnataka, 560076",
+        "latitude": 12.8796,
+        "longitude": 77.6021,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_64.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kanakapura Road, Bangalore, Karnataka, 560062",
+        "latitude": 12.9005,
+        "longitude": 77.5454,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_65.mp4",
+        "timestamp": "00:00:15",
+        "location": "Uttarahalli, Bangalore, Karnataka, 560061",
+        "latitude": 12.9068,
+        "longitude": 77.5475,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_66.mp4",
+        "timestamp": "00:00:15",
+        "location": "Padmanabhanagar, Bangalore, Karnataka, 560070",
+        "latitude": 12.9182,
+        "longitude": 77.5565,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_67.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kumaraswamy Layout, Bangalore, Karnataka, 560078",
+        "latitude": 12.9081,
+        "longitude": 77.5667,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_68.mp4",
+        "timestamp": "00:00:15",
+        "location": "Chikkalasandra, Bangalore, Karnataka, 560061",
+        "latitude": 12.9054,
+        "longitude": 77.5478,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_69.mp4",
+        "timestamp": "00:00:15",
+        "location": "Girinagar, Bangalore, Karnataka, 560085",
+        "latitude": 12.9295,
+        "longitude": 77.5438,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_70.mp4",
+        "timestamp": "00:00:15",
+        "location": "Hanumanthanagar, Bangalore, Karnataka, 560050",
+        "latitude": 12.9394,
+        "longitude": 77.5613,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_71.mp4",
+        "timestamp": "00:00:15",
+        "location": "Seshadripuram, Bangalore, Karnataka, 560020",
+        "latitude": 12.9935,
+        "longitude": 77.5725,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_72.mp4",
+        "timestamp": "00:00:15",
+        "location": "Majestic, Bangalore, Karnataka, 560009",
+        "latitude": 12.9779,
+        "longitude": 77.5713,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_73.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kalasipalya, Bangalore, Karnataka, 560002",
+        "latitude": 12.9636,
+        "longitude": 77.5731,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_74.mp4",
+        "timestamp": "00:00:15",
+        "location": "City Market, Bangalore, Karnataka, 560002",
+        "latitude": 12.9621,
+        "longitude": 77.576,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_75.mp4",
+        "timestamp": "00:00:15",
+        "location": "KR Market, Bangalore, Karnataka, 560002",
+        "latitude": 12.9602,
+        "longitude": 77.5737,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_76.mp4",
+        "timestamp": "00:00:15",
+        "location": "Mysore Road, Bangalore, Karnataka, 560026",
+        "latitude": 12.9501,
+        "longitude": 77.5308,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_77.mp4",
+        "timestamp": "00:00:15",
+        "location": "Byatarayanapura, Bangalore, Karnataka, 560092",
+        "latitude": 13.0659,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_78.mp4",
+        "timestamp": "00:00:15",
+        "location": "Thanisandra, Bangalore, Karnataka, 560077",
+        "latitude": 13.0572,
+        "longitude": 77.6338,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_79.mp4",
+        "timestamp": "00:00:15",
+        "location": "Horamavu, Bangalore, Karnataka, 560043",
+        "latitude": 13.0318,
+        "longitude": 77.6597,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_80.mp4",
+        "timestamp": "00:00:15",
+        "location": "Kasturinagar, Bangalore, Karnataka, 560043",
+        "latitude": 13.0181,
+        "longitude": 77.6632,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_81.mp4",
+        "timestamp": "00:00:15",
+        "location": "Ramamurthy Nagar, Bangalore, Karnataka, 560016",
+        "latitude": 13.012,
+        "longitude": 77.6789,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_82.mp4",
+        "timestamp": "00:00:15",
+        "location": "CV Raman Nagar, Bangalore, Karnataka, 560093",
+        "latitude": 12.9851,
+        "longitude": 77.6639,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_83.mp4",
+        "timestamp": "00:00:15",
+        "location": "Doddanekkundi, Bangalore, Karnataka, 560037",
+        "latitude": 12.9764,
+        "longitude": 77.6941,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_84.mp4",
+        "timestamp": "00:00:15",
+        "location": "Panathur, Bangalore, Karnataka, 560103",
+        "latitude": 12.9355,
+        "longitude": 77.7019,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_85.mp4",
+        "timestamp": "00:00:15",
+        "location": "Agara, Bangalore, Karnataka, 560102",
+        "latitude": 12.9226,
+        "longitude": 77.636,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_86.mp4",
+        "timestamp": "00:00:15",
+        "location": "Silk Board, Bangalore, Karnataka, 560068",
+        "latitude": 12.9175,
+        "longitude": 77.6228,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_87.mp4",
+        "timestamp": "00:00:15",
+        "location": "Dairy Circle, Bangalore, Karnataka, 560029",
+        "latitude": 12.9359,
+        "longitude": 77.6015,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_88.mp4",
+        "timestamp": "00:00:15",
+        "location": "Adugodi, Bangalore, Karnataka, 560030",
+        "latitude": 12.9427,
+        "longitude": 77.6104,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_89.mp4",
+        "timestamp": "00:00:15",
+        "location": "Ejipura, Bangalore, Karnataka, 560047",
+        "latitude": 12.9345,
+        "longitude": 77.6281,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fire_90.mp4",
+        "timestamp": "00:00:15",
+        "location": "Cambridge Layout, Bangalore, Karnataka, 560008",
+        "latitude": 12.9712,
+        "longitude": 77.621,
+        "severity": "Major"
+    }
+]
