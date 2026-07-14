@@ -1,0 +1,15 @@
+tensorflow
+keras
+torch
+torchvision
+ultralytics
+opencv-python
+mediapipe
+numpy
+pandas
+matplotlib
+scikit-learn
+ipywidgets
+Pillow
+requests
+twilio
