@@ -1,0 +1,1202 @@
+[
+    {
+        "video_name": "fight_1.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 2nd Main Road, Whitefield, Bangalore, Karnataka - 560066",
+        "latitude": 12.9698,
+        "longitude": 77.7499,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_2.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 3rd Main Road, KR Puram, Bangalore, Karnataka - 560036",
+        "latitude": 13.0004,
+        "longitude": 77.6956,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_3.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 4th Main Road, Hebbal, Bangalore, Karnataka - 560024",
+        "latitude": 13.0358,
+        "longitude": 77.597,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_4.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 5th Main Road, Malleshwaram, Bangalore, Karnataka - 560003",
+        "latitude": 13.0067,
+        "longitude": 77.5696,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_5.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 6th Main Road, Basavanagudi, Bangalore, Karnataka - 560004",
+        "latitude": 12.9416,
+        "longitude": 77.5738,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_6.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 7th Main Road, Banashankari, Bangalore, Karnataka - 560050",
+        "latitude": 12.9255,
+        "longitude": 77.5468,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_7.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 8th Main Road, JP Nagar, Bangalore, Karnataka - 560078",
+        "latitude": 12.9077,
+        "longitude": 77.5857,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_8.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 9th Main Road, Jakkur, Bangalore, Karnataka - 560064",
+        "latitude": 13.0785,
+        "longitude": 77.6066,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_9.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 10th Main Road, Hennur, Bangalore, Karnataka - 560043",
+        "latitude": 13.0583,
+        "longitude": 77.6409,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_10.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 1st Main Road, Kalyan Nagar, Bangalore, Karnataka - 560043",
+        "latitude": 13.0221,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_11.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 2nd Main Road, HRBR Layout, Bangalore, Karnataka - 560043",
+        "latitude": 13.0196,
+        "longitude": 77.6503,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_12.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 3rd Main Road, Nagawara, Bangalore, Karnataka - 560045",
+        "latitude": 13.0475,
+        "longitude": 77.6203,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_13.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 4th Main Road, Bellandur, Bangalore, Karnataka - 560103",
+        "latitude": 12.9304,
+        "longitude": 77.6784,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_14.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 5th Main Road, Sarjapur, Bangalore, Karnataka - 562125",
+        "latitude": 12.9137,
+        "longitude": 77.6835,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_15.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 6th Main Road, Domlur, Bangalore, Karnataka - 560071",
+        "latitude": 12.9611,
+        "longitude": 77.6387,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_16.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 7th Main Road, Ulsoor, Bangalore, Karnataka - 560008",
+        "latitude": 12.9849,
+        "longitude": 77.6183,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_17.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 8th Main Road, MG Road, Bangalore, Karnataka - 560001",
+        "latitude": 12.9755,
+        "longitude": 77.6067,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_18.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 9th Main Road, Shivajinagar, Bangalore, Karnataka - 560051",
+        "latitude": 12.9896,
+        "longitude": 77.6038,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_19.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 10th Main Road, RT Nagar, Bangalore, Karnataka - 560032",
+        "latitude": 13.0243,
+        "longitude": 77.5939,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_20.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 1st Main Road, Sadashivanagar, Bangalore, Karnataka - 560080",
+        "latitude": 13.0078,
+        "longitude": 77.5811,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_21.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 2nd Main Road, Vijayanagar, Bangalore, Karnataka - 560040",
+        "latitude": 12.9719,
+        "longitude": 77.537,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_22.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 3rd Main Road, RR Nagar, Bangalore, Karnataka - 560098",
+        "latitude": 12.9147,
+        "longitude": 77.5201,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_23.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 4th Main Road, Kengeri, Bangalore, Karnataka - 560060",
+        "latitude": 12.9073,
+        "longitude": 77.4856,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_24.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 5th Main Road, Nagarbhavi, Bangalore, Karnataka - 560072",
+        "latitude": 12.9624,
+        "longitude": 77.5063,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_25.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 6th Main Road, Chandra Layout, Bangalore, Karnataka - 560040",
+        "latitude": 12.9608,
+        "longitude": 77.5242,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_26.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 7th Main Road, Yeshwanthpur, Bangalore, Karnataka - 560022",
+        "latitude": 13.0285,
+        "longitude": 77.54,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_27.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 8th Main Road, Peenya, Bangalore, Karnataka - 560058",
+        "latitude": 13.0287,
+        "longitude": 77.5197,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_28.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 9th Main Road, Nelamangala, Bangalore, Karnataka - 562123",
+        "latitude": 13.0985,
+        "longitude": 77.3936,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_29.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 10th Main Road, Tumkur Road, Bangalore, Karnataka - 560073",
+        "latitude": 13.0418,
+        "longitude": 77.5119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_30.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 1st Main Road, Vidyaranyapura, Bangalore, Karnataka - 560097",
+        "latitude": 13.0762,
+        "longitude": 77.5618,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_31.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 2nd Main Road, Sahakar Nagar, Bangalore, Karnataka - 560092",
+        "latitude": 13.0624,
+        "longitude": 77.5925,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_32.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 3rd Main Road, Sanjay Nagar, Bangalore, Karnataka - 560094",
+        "latitude": 13.0248,
+        "longitude": 77.5781,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_33.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 4th Main Road, Mathikere, Bangalore, Karnataka - 560054",
+        "latitude": 13.0329,
+        "longitude": 77.5574,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_34.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 5th Main Road, Cox Town, Bangalore, Karnataka - 560005",
+        "latitude": 12.9985,
+        "longitude": 77.6176,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_35.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 6th Main Road, Frazer Town, Bangalore, Karnataka - 560005",
+        "latitude": 12.998,
+        "longitude": 77.6145,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_36.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 7th Main Road, Benson Town, Bangalore, Karnataka - 560046",
+        "latitude": 13.0044,
+        "longitude": 77.6119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_37.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 8th Main Road, Richmond Town, Bangalore, Karnataka - 560025",
+        "latitude": 12.9645,
+        "longitude": 77.6031,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_38.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 9th Main Road, Wilson Garden, Bangalore, Karnataka - 560027",
+        "latitude": 12.9492,
+        "longitude": 77.5968,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_39.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 10th Main Road, Lalbagh, Bangalore, Karnataka - 560004",
+        "latitude": 12.9507,
+        "longitude": 77.5848,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_40.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 1st Main Road, Jayanagar, Bangalore, Karnataka - 560041",
+        "latitude": 12.925,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_41.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 2nd Main Road, BTM Layout, Bangalore, Karnataka - 560076",
+        "latitude": 12.9166,
+        "longitude": 77.6101,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_42.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 3rd Main Road, Koramangala, Bangalore, Karnataka - 560034",
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_43.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 4th Main Road, HSR Layout, Bangalore, Karnataka - 560102",
+        "latitude": 12.9116,
+        "longitude": 77.6474,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_44.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 5th Main Road, Electronic City, Bangalore, Karnataka - 560100",
+        "latitude": 12.8456,
+        "longitude": 77.6603,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_45.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 6th Main Road, Marathahalli, Bangalore, Karnataka - 560037",
+        "latitude": 12.9569,
+        "longitude": 77.7011,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_46.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 7th Main Road, Indiranagar, Bangalore, Karnataka - 560038",
+        "latitude": 12.9784,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_47.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 8th Main Road, Rajajinagar, Bangalore, Karnataka - 560010",
+        "latitude": 12.9916,
+        "longitude": 77.5538,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_48.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 9th Main Road, Yelahanka, Bangalore, Karnataka - 560064",
+        "latitude": 13.1005,
+        "longitude": 77.5963,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_49.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 10th Main Road, Devanahalli, Bangalore, Karnataka - 562110",
+        "latitude": 13.2422,
+        "longitude": 77.7132,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_50.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 1st Main Road, Airport Road, Bangalore, Karnataka - 560017",
+        "latitude": 12.958,
+        "longitude": 77.6488,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_51.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 2nd Main Road, Varthur, Bangalore, Karnataka - 560087",
+        "latitude": 12.9406,
+        "longitude": 77.7476,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_52.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 3rd Main Road, Kundalahalli, Bangalore, Karnataka - 560037",
+        "latitude": 12.9567,
+        "longitude": 77.7137,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_53.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 4th Main Road, Brookefield, Bangalore, Karnataka - 560037",
+        "latitude": 12.9661,
+        "longitude": 77.7172,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_54.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 5th Main Road, Mahadevapura, Bangalore, Karnataka - 560048",
+        "latitude": 12.9913,
+        "longitude": 77.6955,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_55.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 6th Main Road, Hoodi, Bangalore, Karnataka - 560048",
+        "latitude": 12.9892,
+        "longitude": 77.7159,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_56.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 7th Main Road, ITPL, Bangalore, Karnataka - 560066",
+        "latitude": 12.9855,
+        "longitude": 77.736,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_57.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 8th Main Road, Kadugodi, Bangalore, Karnataka - 560067",
+        "latitude": 12.9953,
+        "longitude": 77.76,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_58.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 9th Main Road, Begur, Bangalore, Karnataka - 560068",
+        "latitude": 12.8891,
+        "longitude": 77.6324,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_59.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 10th Main Road, Bommanahalli, Bangalore, Karnataka - 560068",
+        "latitude": 12.9063,
+        "longitude": 77.6247,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_60.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 1st Main Road, Arekere, Bangalore, Karnataka - 560076",
+        "latitude": 12.8876,
+        "longitude": 77.5961,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_61.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 2nd Main Road, Bannerghatta, Bangalore, Karnataka - 560083",
+        "latitude": 12.8003,
+        "longitude": 77.5778,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_62.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 3rd Main Road, Gottigere, Bangalore, Karnataka - 560083",
+        "latitude": 12.8678,
+        "longitude": 77.588,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_63.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 4th Main Road, Hulimavu, Bangalore, Karnataka - 560076",
+        "latitude": 12.8796,
+        "longitude": 77.6021,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_64.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 5th Main Road, Kanakapura Road, Bangalore, Karnataka - 560062",
+        "latitude": 12.9005,
+        "longitude": 77.5454,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_65.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 6th Main Road, Uttarahalli, Bangalore, Karnataka - 560061",
+        "latitude": 12.9068,
+        "longitude": 77.5475,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_66.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 7th Main Road, Padmanabhanagar, Bangalore, Karnataka - 560070",
+        "latitude": 12.9182,
+        "longitude": 77.5565,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_67.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 8th Main Road, Kumaraswamy Layout, Bangalore, Karnataka - 560078",
+        "latitude": 12.9081,
+        "longitude": 77.5667,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_68.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 9th Main Road, Chikkalasandra, Bangalore, Karnataka - 560061",
+        "latitude": 12.9054,
+        "longitude": 77.5478,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_69.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 10th Main Road, Girinagar, Bangalore, Karnataka - 560085",
+        "latitude": 12.9295,
+        "longitude": 77.5438,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_70.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 1st Main Road, Hanumanthanagar, Bangalore, Karnataka - 560050",
+        "latitude": 12.9394,
+        "longitude": 77.5613,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_71.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 2nd Main Road, Seshadripuram, Bangalore, Karnataka - 560020",
+        "latitude": 12.9935,
+        "longitude": 77.5725,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_72.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 3rd Main Road, Majestic, Bangalore, Karnataka - 560009",
+        "latitude": 12.9779,
+        "longitude": 77.5713,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_73.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 4th Main Road, Kalasipalya, Bangalore, Karnataka - 560002",
+        "latitude": 12.9636,
+        "longitude": 77.5731,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_74.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 5th Main Road, City Market, Bangalore, Karnataka - 560002",
+        "latitude": 12.9621,
+        "longitude": 77.576,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_75.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 6th Main Road, KR Market, Bangalore, Karnataka - 560002",
+        "latitude": 12.9602,
+        "longitude": 77.5737,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_76.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 7th Main Road, Mysore Road, Bangalore, Karnataka - 560026",
+        "latitude": 12.9501,
+        "longitude": 77.5308,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_77.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 8th Main Road, Byatarayanapura, Bangalore, Karnataka - 560092",
+        "latitude": 13.0659,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_78.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 9th Main Road, Thanisandra, Bangalore, Karnataka - 560077",
+        "latitude": 13.0572,
+        "longitude": 77.6338,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_79.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 10th Main Road, Horamavu, Bangalore, Karnataka - 560043",
+        "latitude": 13.0318,
+        "longitude": 77.6597,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_80.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 1st Main Road, Kasturinagar, Bangalore, Karnataka - 560043",
+        "latitude": 13.0181,
+        "longitude": 77.6632,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_81.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 2nd Main Road, Ramamurthy Nagar, Bangalore, Karnataka - 560016",
+        "latitude": 13.012,
+        "longitude": 77.6789,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_82.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 3rd Main Road, CV Raman Nagar, Bangalore, Karnataka - 560093",
+        "latitude": 12.9851,
+        "longitude": 77.6639,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_83.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 4th Main Road, Doddanekkundi, Bangalore, Karnataka - 560037",
+        "latitude": 12.9764,
+        "longitude": 77.6941,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_84.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 5th Main Road, Panathur, Bangalore, Karnataka - 560103",
+        "latitude": 12.9355,
+        "longitude": 77.7019,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_85.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 6th Main Road, Agara, Bangalore, Karnataka - 560102",
+        "latitude": 12.9226,
+        "longitude": 77.636,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_86.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 7th Main Road, Silk Board, Bangalore, Karnataka - 560068",
+        "latitude": 12.9175,
+        "longitude": 77.6228,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_87.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 8th Main Road, Dairy Circle, Bangalore, Karnataka - 560029",
+        "latitude": 12.9359,
+        "longitude": 77.6015,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_88.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 9th Main Road, Adugodi, Bangalore, Karnataka - 560030",
+        "latitude": 12.9427,
+        "longitude": 77.6104,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_89.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 10th Main Road, Ejipura, Bangalore, Karnataka - 560047",
+        "latitude": 12.9345,
+        "longitude": 77.6281,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_90.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 1st Main Road, Cambridge Layout, Bangalore, Karnataka - 560008",
+        "latitude": 12.9712,
+        "longitude": 77.621,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_91.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 2nd Main Road, Cooke Town, Bangalore, Karnataka - 560005",
+        "latitude": 13.0015,
+        "longitude": 77.6248,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_92.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 3rd Main Road, Vivek Nagar, Bangalore, Karnataka - 560047",
+        "latitude": 12.9498,
+        "longitude": 77.6172,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_93.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 4th Main Road, Austin Town, Bangalore, Karnataka - 560047",
+        "latitude": 12.9472,
+        "longitude": 77.615,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_94.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 5th Main Road, Neelasandra, Bangalore, Karnataka - 560047",
+        "latitude": 12.9445,
+        "longitude": 77.6135,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_95.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 6th Main Road, Koramangala 1st Block, Bangalore, Karnataka - 560034",
+        "latitude": 12.9277,
+        "longitude": 77.6275,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_96.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 7th Main Road, Koramangala 5th Block, Bangalore, Karnataka - 560095",
+        "latitude": 12.934,
+        "longitude": 77.6205,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_97.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 8th Main Road, Koramangala 8th Block, Bangalore, Karnataka - 560095",
+        "latitude": 12.931,
+        "longitude": 77.6268,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_98.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 9th Main Road, HSR Sector 1, Bangalore, Karnataka - 560102",
+        "latitude": 12.9105,
+        "longitude": 77.6442,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_99.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 10th Main Road, HSR Sector 2, Bangalore, Karnataka - 560102",
+        "latitude": 12.9087,
+        "longitude": 77.6498,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_100.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 1st Main Road, HSR Sector 3, Bangalore, Karnataka - 560102",
+        "latitude": 12.9059,
+        "longitude": 77.6521,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_101.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 2nd Main Road, HSR Sector 6, Bangalore, Karnataka - 560102",
+        "latitude": 12.8998,
+        "longitude": 77.6464,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_102.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 3rd Main Road, Bellandur Gate, Bangalore, Karnataka - 560103",
+        "latitude": 12.9282,
+        "longitude": 77.676,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_103.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 4th Main Road, Carmelaram, Bangalore, Karnataka - 560035",
+        "latitude": 12.9011,
+        "longitude": 77.694,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_104.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 5th Main Road, Kaikondrahalli, Bangalore, Karnataka - 560035",
+        "latitude": 12.9185,
+        "longitude": 77.6902,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_105.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 6th Main Road, Munnekolala, Bangalore, Karnataka - 560037",
+        "latitude": 12.9551,
+        "longitude": 77.7018,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_106.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 7th Main Road, AECS Layout, Bangalore, Karnataka - 560037",
+        "latitude": 12.965,
+        "longitude": 77.7145,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_107.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 8th Main Road, Kundanahalli Gate, Bangalore, Karnataka - 560037",
+        "latitude": 12.9588,
+        "longitude": 77.712,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_108.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 9th Main Road, Chinnapanahalli, Bangalore, Karnataka - 560037",
+        "latitude": 12.973,
+        "longitude": 77.6984,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_109.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 10th Main Road, Dodsworth Layout, Bangalore, Karnataka - 560066",
+        "latitude": 12.9872,
+        "longitude": 77.7431,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_110.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 1st Main Road, ECC Road, Bangalore, Karnataka - 560066",
+        "latitude": 12.986,
+        "longitude": 77.731,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_111.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 2nd Main Road, Hope Farm, Bangalore, Karnataka - 560066",
+        "latitude": 12.9844,
+        "longitude": 77.754,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_112.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 3rd Main Road, Seegehalli, Bangalore, Karnataka - 560067",
+        "latitude": 13.0094,
+        "longitude": 77.7468,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_113.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 4th Main Road, Battarahalli, Bangalore, Karnataka - 560049",
+        "latitude": 13.0156,
+        "longitude": 77.7033,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_114.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 5th Main Road, Medahalli, Bangalore, Karnataka - 560049",
+        "latitude": 13.0205,
+        "longitude": 77.7088,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_115.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 6th Main Road, Ramagondanahalli, Bangalore, Karnataka - 560066",
+        "latitude": 12.9931,
+        "longitude": 77.7415,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_116.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 7th Main Road, Gunjur, Bangalore, Karnataka - 560087",
+        "latitude": 12.9231,
+        "longitude": 77.7398,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_117.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 8th Main Road, Balagere, Bangalore, Karnataka - 560103",
+        "latitude": 12.9366,
+        "longitude": 77.7214,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_118.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 9th Main Road, Haralur, Bangalore, Karnataka - 560102",
+        "latitude": 12.9025,
+        "longitude": 77.663,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_119.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 10th Main Road, Singasandra, Bangalore, Karnataka - 560068",
+        "latitude": 12.8895,
+        "longitude": 77.6484,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_120.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 1st Main Road, Kudlu, Bangalore, Karnataka - 560068",
+        "latitude": 12.8912,
+        "longitude": 77.641,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_121.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 2nd Main Road, Parappana Agrahara, Bangalore, Karnataka - 560100",
+        "latitude": 12.859,
+        "longitude": 77.657,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_122.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 3rd Main Road, Bommasandra, Bangalore, Karnataka - 560099",
+        "latitude": 12.8168,
+        "longitude": 77.6928,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_123.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 4th Main Road, Jigani, Bangalore, Karnataka - 560105",
+        "latitude": 12.7842,
+        "longitude": 77.6411,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_124.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 5th Main Road, Attibele, Bangalore, Karnataka - 562107",
+        "latitude": 12.7797,
+        "longitude": 77.7702,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_125.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 6th Main Road, Chandapura, Bangalore, Karnataka - 560099",
+        "latitude": 12.8008,
+        "longitude": 77.7042,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_126.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 7th Main Road, Begihalli, Bangalore, Karnataka - 560083",
+        "latitude": 12.8452,
+        "longitude": 77.5965,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_127.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 8th Main Road, Anjanapura, Bangalore, Karnataka - 560108",
+        "latitude": 12.8618,
+        "longitude": 77.5577,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_128.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 9th Main Road, Talaghattapura, Bangalore, Karnataka - 560109",
+        "latitude": 12.8704,
+        "longitude": 77.543,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_129.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 10th Main Road, Subramanyapura, Bangalore, Karnataka - 560061",
+        "latitude": 12.8977,
+        "longitude": 77.5481,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_130.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 1st Main Road, Vasanthapura, Bangalore, Karnataka - 560061",
+        "latitude": 12.8899,
+        "longitude": 77.5437,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_131.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 2nd Main Road, Srinagar, Bangalore, Karnataka - 560050",
+        "latitude": 12.945,
+        "longitude": 77.556,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_132.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 3rd Main Road, Chamrajpet, Bangalore, Karnataka - 560018",
+        "latitude": 12.9575,
+        "longitude": 77.5608,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_133.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 4th Main Road, Okalipuram, Bangalore, Karnataka - 560021",
+        "latitude": 12.982,
+        "longitude": 77.5554,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_134.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 5th Main Road, Cottonpet, Bangalore, Karnataka - 560053",
+        "latitude": 12.9631,
+        "longitude": 77.5712,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_135.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 6th Main Road, Gandhinagar, Bangalore, Karnataka - 560009",
+        "latitude": 12.9788,
+        "longitude": 77.57,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_136.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 7th Main Road, Palace Guttahalli, Bangalore, Karnataka - 560003",
+        "latitude": 13.0018,
+        "longitude": 77.5722,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_137.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 8th Main Road, Nandini Layout, Bangalore, Karnataka - 560096",
+        "latitude": 13.0142,
+        "longitude": 77.533,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_138.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 9th Main Road, Mahalakshmi Layout, Bangalore, Karnataka - 560086",
+        "latitude": 13.011,
+        "longitude": 77.5486,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_139.mp4",
+        "timestamp": "00:00:15",
+        "location": "8th Cross, 10th Main Road, ISRO Layout, Bangalore, Karnataka - 560078",
+        "latitude": 12.8955,
+        "longitude": 77.5601,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_140.mp4",
+        "timestamp": "00:00:15",
+        "location": "9th Cross, 1st Main Road, Raghavendra Layout, Bangalore, Karnataka - 560098",
+        "latitude": 12.913,
+        "longitude": 77.5185,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_141.mp4",
+        "timestamp": "00:00:15",
+        "location": "10th Cross, 2nd Main Road, Kathriguppe, Bangalore, Karnataka - 560085",
+        "latitude": 12.9238,
+        "longitude": 77.5531,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_142.mp4",
+        "timestamp": "00:00:15",
+        "location": "11th Cross, 3rd Main Road, Deepanjali Nagar, Bangalore, Karnataka - 560026",
+        "latitude": 12.959,
+        "longitude": 77.5312,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_143.mp4",
+        "timestamp": "00:00:15",
+        "location": "12th Cross, 4th Main Road, Hosakerehalli, Bangalore, Karnataka - 560085",
+        "latitude": 12.923,
+        "longitude": 77.5398,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_144.mp4",
+        "timestamp": "00:00:15",
+        "location": "1st Cross, 5th Main Road, Kamakshipalya, Bangalore, Karnataka - 560079",
+        "latitude": 12.9835,
+        "longitude": 77.5148,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_145.mp4",
+        "timestamp": "00:00:15",
+        "location": "2nd Cross, 6th Main Road, Magadi Road, Bangalore, Karnataka - 560023",
+        "latitude": 12.975,
+        "longitude": 77.5365,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_146.mp4",
+        "timestamp": "00:00:15",
+        "location": "3rd Cross, 7th Main Road, Laggere, Bangalore, Karnataka - 560058",
+        "latitude": 13.0158,
+        "longitude": 77.524,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_147.mp4",
+        "timestamp": "00:00:15",
+        "location": "4th Cross, 8th Main Road, Sunkadakatte, Bangalore, Karnataka - 560091",
+        "latitude": 13.028,
+        "longitude": 77.5068,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_148.mp4",
+        "timestamp": "00:00:15",
+        "location": "5th Cross, 9th Main Road, Herohalli, Bangalore, Karnataka - 560091",
+        "latitude": 13.0328,
+        "longitude": 77.5062,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_149.mp4",
+        "timestamp": "00:00:15",
+        "location": "6th Cross, 10th Main Road, Andrahalli, Bangalore, Karnataka - 560091",
+        "latitude": 13.0432,
+        "longitude": 77.4957,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fight_150.mp4",
+        "timestamp": "00:00:15",
+        "location": "7th Cross, 1st Main Road, Chokkasandra, Bangalore, Karnataka - 560057",
+        "latitude": 13.0515,
+        "longitude": 77.514,
+        "severity": "Major"
+    }
+]

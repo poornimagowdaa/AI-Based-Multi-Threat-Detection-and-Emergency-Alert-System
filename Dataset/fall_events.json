@@ -1,0 +1,634 @@
+[
+    {
+        "video_name": "fall_1.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 12, 5th Cross, Whitefield, Bangalore, Karnataka, 560066",
+        "latitude": 12.9698,
+        "longitude": 77.7499,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_2.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 302, 3rd Main Road, KR Puram, Bangalore, Karnataka, 560036",
+        "latitude": 13.0004,
+        "longitude": 77.6956,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_3.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 5, 2nd Cross, Hebbal, Bangalore, Karnataka, 560024",
+        "latitude": 13.0358,
+        "longitude": 77.597,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_4.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 45, 8th Main, Malleshwaram, Bangalore, Karnataka, 560003",
+        "latitude": 13.0067,
+        "longitude": 77.5696,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_5.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 210, 7th Cross, Basavanagudi, Bangalore, Karnataka, 560004",
+        "latitude": 12.9416,
+        "longitude": 77.5738,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_6.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 18, 2nd Main Road, Banashankari, Bangalore, Karnataka, 560050",
+        "latitude": 12.9255,
+        "longitude": 77.5468,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_7.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 33, 9th Cross, JP Nagar, Bangalore, Karnataka, 560078",
+        "latitude": 12.9077,
+        "longitude": 77.5857,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_8.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 101, 4th Main, Jakkur, Bangalore, Karnataka, 560064",
+        "latitude": 13.0785,
+        "longitude": 77.6066,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_9.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 9, 6th Cross, Hennur, Bangalore, Karnataka, 560043",
+        "latitude": 13.0583,
+        "longitude": 77.6409,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_10.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 67, 11th Main, Kalyan Nagar, Bangalore, Karnataka, 560043",
+        "latitude": 13.0221,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_11.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 405, 1st Cross, HRBR Layout, Bangalore, Karnataka, 560043",
+        "latitude": 13.0196,
+        "longitude": 77.6503,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_12.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 22, 6th Main Road, Nagawara, Bangalore, Karnataka, 560045",
+        "latitude": 13.0475,
+        "longitude": 77.6203,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_13.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 89, 4th Cross, Bellandur, Bangalore, Karnataka, 560103",
+        "latitude": 12.9304,
+        "longitude": 77.6784,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_14.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 506, 2nd Main, Sarjapur, Bangalore, Karnataka, 562125",
+        "latitude": 12.9137,
+        "longitude": 77.6835,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_15.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 14, 5th Cross, Domlur, Bangalore, Karnataka, 560071",
+        "latitude": 12.9611,
+        "longitude": 77.6387,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_16.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 23, 8th Main Road, Ulsoor, Bangalore, Karnataka, 560008",
+        "latitude": 12.9849,
+        "longitude": 77.6183,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_17.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 110, 3rd Cross, MG Road, Bangalore, Karnataka, 560001",
+        "latitude": 12.9755,
+        "longitude": 77.6067,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_18.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 30, 10th Main, Shivajinagar, Bangalore, Karnataka, 560051",
+        "latitude": 12.9896,
+        "longitude": 77.6038,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_19.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 55, 7th Cross, RT Nagar, Bangalore, Karnataka, 560032",
+        "latitude": 13.0243,
+        "longitude": 77.5939,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_20.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 215, 2nd Main Road, Sadashivanagar, Bangalore, Karnataka, 560080",
+        "latitude": 13.0078,
+        "longitude": 77.5811,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_21.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 7, 9th Cross, Vijayanagar, Bangalore, Karnataka, 560040",
+        "latitude": 12.9719,
+        "longitude": 77.537,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_22.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 99, 5th Main Road, RR Nagar, Bangalore, Karnataka, 560098",
+        "latitude": 12.9147,
+        "longitude": 77.5201,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_23.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 321, 3rd Cross, Kengeri, Bangalore, Karnataka, 560060",
+        "latitude": 12.9073,
+        "longitude": 77.4856,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_24.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 11, 6th Main, Nagarbhavi, Bangalore, Karnataka, 560072",
+        "latitude": 12.9624,
+        "longitude": 77.5063,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_25.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 14, 4th Cross, Chandra Layout, Bangalore, Karnataka, 560040",
+        "latitude": 12.9608,
+        "longitude": 77.5242,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_26.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 509, 7th Main Road, Yeshwanthpur, Bangalore, Karnataka, 560022",
+        "latitude": 13.0285,
+        "longitude": 77.54,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_27.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 27, 1st Cross, Peenya, Bangalore, Karnataka, 560058",
+        "latitude": 13.0287,
+        "longitude": 77.5197,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_28.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 60, 8th Main, Nelamangala, Bangalore, Karnataka, 562123",
+        "latitude": 13.0985,
+        "longitude": 77.3936,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_29.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 402, 6th Cross, Tumkur Road, Bangalore, Karnataka, 560073",
+        "latitude": 13.0418,
+        "longitude": 77.5119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_30.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 3, 2nd Main Road, Vidyaranyapura, Bangalore, Karnataka, 560097",
+        "latitude": 13.0762,
+        "longitude": 77.5618,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_31.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 88, 10th Cross, Sahakar Nagar, Bangalore, Karnataka, 560092",
+        "latitude": 13.0624,
+        "longitude": 77.5925,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_32.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 120, 3rd Main Road, Sanjay Nagar, Bangalore, Karnataka, 560094",
+        "latitude": 13.0248,
+        "longitude": 77.5781,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_33.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 16, 5th Cross, Mathikere, Bangalore, Karnataka, 560054",
+        "latitude": 13.0329,
+        "longitude": 77.5574,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_34.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 47, 7th Main, Cox Town, Bangalore, Karnataka, 560005",
+        "latitude": 12.9985,
+        "longitude": 77.6176,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_35.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 305, 2nd Cross, Frazer Town, Bangalore, Karnataka, 560005",
+        "latitude": 12.998,
+        "longitude": 77.6145,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_36.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 12, 6th Main Road, Benson Town, Bangalore, Karnataka, 560046",
+        "latitude": 13.0044,
+        "longitude": 77.6119,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_37.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 77, 4th Cross, Richmond Town, Bangalore, Karnataka, 560025",
+        "latitude": 12.9645,
+        "longitude": 77.6031,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_38.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 410, 9th Main, Wilson Garden, Bangalore, Karnataka, 560027",
+        "latitude": 12.9492,
+        "longitude": 77.5968,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_39.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 21, 3rd Cross, Lalbagh, Bangalore, Karnataka, 560004",
+        "latitude": 12.9507,
+        "longitude": 77.5848,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_40.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 29, 8th Main Road, Jayanagar, Bangalore, Karnataka, 560041",
+        "latitude": 12.925,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_41.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 333, 5th Cross, BTM Layout, Bangalore, Karnataka, 560076",
+        "latitude": 12.9166,
+        "longitude": 77.6101,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_42.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 8, 2nd Main Road, Koramangala, Bangalore, Karnataka, 560034",
+        "latitude": 12.9352,
+        "longitude": 77.6245,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_43.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 51, 6th Cross, HSR Layout, Bangalore, Karnataka, 560102",
+        "latitude": 12.9116,
+        "longitude": 77.6474,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_44.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 211, 4th Main, Electronic City, Bangalore, Karnataka, 560100",
+        "latitude": 12.8456,
+        "longitude": 77.6603,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_45.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 19, 9th Cross, Marathahalli, Bangalore, Karnataka, 560037",
+        "latitude": 12.9569,
+        "longitude": 77.7011,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_46.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 62, 3rd Main Road, Indiranagar, Bangalore, Karnataka, 560038",
+        "latitude": 12.9784,
+        "longitude": 77.6408,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_47.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 420, 7th Cross, Rajajinagar, Bangalore, Karnataka, 560010",
+        "latitude": 12.9916,
+        "longitude": 77.5538,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_48.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 24, 1st Main, Yelahanka, Bangalore, Karnataka, 560064",
+        "latitude": 13.1005,
+        "longitude": 77.5963,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_49.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 39, 5th Cross, Devanahalli, Bangalore, Karnataka, 562110",
+        "latitude": 13.2422,
+        "longitude": 77.7132,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_50.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 515, 2nd Main Road, Airport Road, Bangalore, Karnataka, 560017",
+        "latitude": 12.958,
+        "longitude": 77.6488,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_51.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 6, 8th Cross, Varthur, Bangalore, Karnataka, 560087",
+        "latitude": 12.9406,
+        "longitude": 77.7476,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_52.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 72, 4th Main Road, Kundalahalli, Bangalore, Karnataka, 560037",
+        "latitude": 12.9567,
+        "longitude": 77.7137,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_53.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 207, 6th Cross, Brookefield, Bangalore, Karnataka, 560037",
+        "latitude": 12.9661,
+        "longitude": 77.7172,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_54.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 15, 3rd Main, Mahadevapura, Bangalore, Karnataka, 560048",
+        "latitude": 12.9913,
+        "longitude": 77.6955,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_55.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 95, 7th Cross, Hoodi, Bangalore, Karnataka, 560048",
+        "latitude": 12.9892,
+        "longitude": 77.7159,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_56.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 315, 2nd Main Road, ITPL, Bangalore, Karnataka, 560066",
+        "latitude": 12.9855,
+        "longitude": 77.736,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_57.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 10, 5th Cross, Kadugodi, Bangalore, Karnataka, 560067",
+        "latitude": 12.9953,
+        "longitude": 77.76,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_58.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 28, 9th Main, Begur, Bangalore, Karnataka, 560068",
+        "latitude": 12.8891,
+        "longitude": 77.6324,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_59.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 404, 4th Cross, Bommanahalli, Bangalore, Karnataka, 560068",
+        "latitude": 12.9063,
+        "longitude": 77.6247,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_60.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 2, 6th Main Road, Arekere, Bangalore, Karnataka, 560076",
+        "latitude": 12.8876,
+        "longitude": 77.5961,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_61.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 41, 3rd Cross, Bannerghatta, Bangalore, Karnataka, 560083",
+        "latitude": 12.8003,
+        "longitude": 77.5778,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_62.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 118, 7th Main Road, Gottigere, Bangalore, Karnataka, 560083",
+        "latitude": 12.8678,
+        "longitude": 77.588,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_63.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 13, 5th Cross, Hulimavu, Bangalore, Karnataka, 560076",
+        "latitude": 12.8796,
+        "longitude": 77.6021,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_64.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 68, 1st Main, Kanakapura Road, Bangalore, Karnataka, 560062",
+        "latitude": 12.9005,
+        "longitude": 77.5454,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_65.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 225, 8th Cross, Uttarahalli, Bangalore, Karnataka, 560061",
+        "latitude": 12.9068,
+        "longitude": 77.5475,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_66.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 17, 4th Main Road, Padmanabhanagar, Bangalore, Karnataka, 560070",
+        "latitude": 12.9182,
+        "longitude": 77.5565,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_67.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 36, 6th Cross, Kumaraswamy Layout, Bangalore, Karnataka, 560078",
+        "latitude": 12.9081,
+        "longitude": 77.5667,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_68.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 502, 2nd Main, Chikkalasandra, Bangalore, Karnataka, 560061",
+        "latitude": 12.9054,
+        "longitude": 77.5478,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_69.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 26, 7th Cross, Girinagar, Bangalore, Karnataka, 560085",
+        "latitude": 12.9295,
+        "longitude": 77.5438,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_70.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 11, 5th Main Road, Hanumanthanagar, Bangalore, Karnataka, 560050",
+        "latitude": 12.9394,
+        "longitude": 77.5613,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_71.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 309, 3rd Cross, Seshadripuram, Bangalore, Karnataka, 560020",
+        "latitude": 12.9935,
+        "longitude": 77.5725,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_72.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 20, 6th Main Road, Majestic, Bangalore, Karnataka, 560009",
+        "latitude": 12.9779,
+        "longitude": 77.5713,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_73.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 83, 8th Cross, Kalasipalya, Bangalore, Karnataka, 560002",
+        "latitude": 12.9636,
+        "longitude": 77.5731,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_74.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 412, 4th Main, City Market, Bangalore, Karnataka, 560002",
+        "latitude": 12.9621,
+        "longitude": 77.576,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_75.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 4, 9th Cross, KR Market, Bangalore, Karnataka, 560002",
+        "latitude": 12.9602,
+        "longitude": 77.5737,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_76.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 53, 2nd Main Road, Mysore Road, Bangalore, Karnataka, 560026",
+        "latitude": 12.9501,
+        "longitude": 77.5308,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_77.mp4",
+        "timestamp": "00:00:15",
+        "location": "Flat 601, 7th Cross, Byatarayanapura, Bangalore, Karnataka, 560092",
+        "latitude": 13.0659,
+        "longitude": 77.5938,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_78.mp4",
+        "timestamp": "00:00:15",
+        "location": "Villa 28, 5th Main, Thanisandra, Bangalore, Karnataka, 560077",
+        "latitude": 13.0572,
+        "longitude": 77.6338,
+        "severity": "Major"
+    },
+    {
+        "video_name": "fall_79.mp4",
+        "timestamp": "00:00:15",
+        "location": "House No 97, 6th Cross, Horamavu, Bangalore, Karnataka, 560043",
+        "latitude": 13.0318,
+        "longitude": 77.6597,
+        "severity": "Major"
+    }
+]
