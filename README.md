@@ -103,15 +103,21 @@ SMS + Email + Voice Call Alerts
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 AI-Based-Multi-Threat-Detection-and-Emergency-Alert-System/
-
-│── Project.ipynb
-│── README.md
-│── requirements.txt
-│── LICENSE
-
-│── Dataset/
+│
+├── README.md
+├── requirements.txt
+│
+├── Pseudo Code/
+│   └── Multi_Threat_Detection_Pseudocode.ipynb
+│
+├── Interface/
+│   └── Smart_Surveillance_Interface.py
+│
+├── Dataset/
 │   ├── smart_surveillance.db
 │   ├── fall_coordinates.json
 │   ├── fire_coordinates.json
@@ -121,11 +127,19 @@ AI-Based-Multi-Threat-Detection-and-Emergency-Alert-System/
 │   ├── violence_events.json
 │   ├── Evidence/
 │   └── Results/
-
-│── screenshots/
-
-│── datasets/
+│
+├── datasets/
 │   └── README.md
+│
+└── screenshots/
+    ├── Interface/
+    ├── SMS_Alert/
+    ├── Call_alert.png
+    ├── database-alert.png
+    ├── Email_alert.png
+    ├── fall_detection4-frame300.png
+    ├── fire_detection27-frame240.png
+    └── violence_detection8-frame300.png
 ```
 
 ---
